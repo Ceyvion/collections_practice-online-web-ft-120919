@@ -30,7 +30,6 @@ def kesha_maker(array)
   end
 end
 
-kesha_maker(["blake", "ashley", "scott"])
 
 
 
